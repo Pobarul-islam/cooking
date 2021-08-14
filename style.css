@@ -1,0 +1,55 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+.radhunivi video{
+	position: relative;
+	bottom: 7rem;
+	height: 25rem;
+	width: 25rem;
+	border: 1px solid #fff;
+	margin: 4rem;
+}
+
+.videot{
+	
+	position: relative;
+	bottom: 28rem;
+	left: 30rem;
+}
+
+.vidh{
+	position: relative;
+	bottom: 29rem;
+	left: 30rem;
+	
+}
+
+.btn{
+	position: relative;
+	height: 50px;
+	width: 150px;
+	border: 1px solid #000;
+	bottom: 27rem;
+	left: 30rem;
+	text-align: center;
+	background: #FBB440;
+	display: inline-block;
+	padding: 14px;
+	font-size: 20px;
+	cursor: pointer;
+	
+}
+
+.btn a{
+	color: #fff;
+	
+}
+
+.btn:hover{
+	background: #000;
+	transition: 2s;
+}
